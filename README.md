@@ -1,6 +1,6 @@
 # GuessNumber-iOS
 
-A very small iOS number guessing game written in Objective-C. This project is just for fun and testing. It's not a serious product.
+A very small iOS number guessing game written in Objective-C. This project is just for fun and testing.
 
 ## How to Play
 
