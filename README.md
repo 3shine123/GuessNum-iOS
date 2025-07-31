@@ -16,9 +16,7 @@ A very small iOS number guessing game written in Objective-C. This project is ju
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
-
+This project is licensed under the [Apache License 2.0](LICENSE).
 
 ## ScreenShot
 
